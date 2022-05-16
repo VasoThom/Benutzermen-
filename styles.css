@@ -33,5 +33,6 @@ nav ul li:last-child {
   border-bottom: none;
 }
 li:hover {
+  cursor: pointer;
   color: red;
 }
